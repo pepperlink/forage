@@ -1,3 +1,5 @@
+> **Pepperlink fork: mirror only.** No builds run from this copy (fork CI and the daily upstream sync were disabled 2026-09-24). The image [`ghcr.io/pepperlink/forage`](https://github.com/orgs/pepperlink/packages/container/package/forage) is built from the upstream repo by [`pepperlink/container-images`](https://github.com/pepperlink/container-images) (weekly build).
+
 <div align="center">
 
 # 🐔 Forage
